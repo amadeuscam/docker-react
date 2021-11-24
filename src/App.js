@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. and y deploy to aws ...great day
+          Edit <code>src/App.js</code> and save to reload. and y deploy to aws ...great day,and now i create a nee branch on the github
         </p>
         <a
           className="App-link"
